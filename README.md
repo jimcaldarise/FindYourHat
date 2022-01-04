@@ -4,7 +4,7 @@ A simple interactive terminal game.
 **Author: Jim Caldarise**
 **Date: 1/3/2022**
 
-**Node Packages provided by Codecademy download start package** 
+**Node modules & json packages provided by Codecademy starter download** 
 **main.js is all original code**
 
 
@@ -26,8 +26,8 @@ Once a square has been traversed, the path is marked with a *. There is no
 penalty for backtracking.
 
 ## Future Improvements
-+Guarantee a solvable board using a recursive backtracking algorithm.
-+Improve graphics by integrating this into a web app.
-+Hide the holes and have a "3 strikes" gameplay
-+Implement a timer which gets shorter and shorter with each new game.
-+Implement progressive difficulty, adding extra holes with each new game
+   +Guarantee a solvable board using a recursive backtracking algorithm.
+   +Improve graphics by integrating this into a web app.
+   +Hide the holes and have a "3 strikes" gameplay
+   +Implement a timer which gets shorter and shorter with each new game.
+   +Implement progressive difficulty, adding extra holes with each new game
