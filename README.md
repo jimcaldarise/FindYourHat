@@ -26,8 +26,8 @@ Once a square has been traversed, the path is marked with a *. There is no
 penalty for backtracking.
 
 ## Future Improvements
-   +Guarantee a solvable board using a recursive backtracking algorithm.
-   +Improve graphics by integrating this into a web app.
-   +Hide the holes and have a "3 strikes" gameplay
-   +Implement a timer which gets shorter and shorter with each new game.
-   +Implement progressive difficulty, adding extra holes with each new game
++ Guarantee a solvable board using a recursive backtracking algorithm.
++ Improve graphics by integrating this into a web app.
++ Hide the holes and have a "3 strikes" gameplay
++ Implement a timer which gets shorter and shorter with each new game.
++ Implement progressive difficulty, adding extra holes with each new game
